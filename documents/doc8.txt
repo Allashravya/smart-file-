@@ -1,0 +1,3 @@
+Algorithms are step by step procedures used to solve problems.
+Sorting algorithms include Bubble Sort, Merge Sort, and Quick Sort.
+Searching algorithms include Binary Search and Linear Search.

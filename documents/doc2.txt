@@ -1,0 +1,2 @@
+Java is an object oriented language.
+Java is widely used.
